@@ -7,7 +7,7 @@ pip install numpy tkinter matplotlib
 python gui_con.py
 ```
 ## C++ 
-First, install SFML package for GU.
+First, install SFML package for GUI.
 ```bash
 sudo apt-get install libsfml-dev
 ```
