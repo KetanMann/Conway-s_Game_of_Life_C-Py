@@ -3,6 +3,9 @@ Clone the  repo:-
 ```bash
 git clone https://github.com/KetanMann/Conway_Game_of_Life
 ```
+```
+cd Conway_Game_of_Life
+```
 ## Python
 ```bash
 pip install numpy tkinter matplotlib 
